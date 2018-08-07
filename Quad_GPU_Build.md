@@ -1,6 +1,11 @@
 ## Components
 
-| Component       | Link        | Price |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 - Motherboard - [ASUS EATX DDR4 LGA 2011-3 Motherboards X99-E ](https://www.amazon.com/Asus-Motherboards-WS-USB-3-1/dp/B00XUDLXJG) $509
 The key is that it is wide enough to support four double-width cards
