@@ -8,7 +8,6 @@ zebra stripes | are neat | $1 | xxx
 
 
 
-
 - CPU - [Intel Boxed Core i7-6850K Processor](https://www.amazon.com/gp/product/B01FJLAITC) - $425
 The key is that it has 40 PCI lanes so that all four cards can run at 8x PCI
 
