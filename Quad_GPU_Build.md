@@ -1,14 +1,13 @@
 ## Components
 
-| Tables        | Are           | Cool  |
+| Component        | Link           | Price       | Comments  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Motherboard      | [ASUS EATX DDR4 LGA 2011-3 Motherboards X99-E ](https://www.amazon.com/Asus-Motherboards-WS-USB-3-1/dp/B00XUDLXJG) | $509 | The key is that it is wide enough to support four double-width cards |
+| col 2 is      | centered      |   $12 | xxx |
+| zebra stripes | are neat      |    $1 | xxx |
 
 
-- Motherboard - [ASUS EATX DDR4 LGA 2011-3 Motherboards X99-E ](https://www.amazon.com/Asus-Motherboards-WS-USB-3-1/dp/B00XUDLXJG) $509
-The key is that it is wide enough to support four double-width cards
+
 
 - CPU - [Intel Boxed Core i7-6850K Processor](https://www.amazon.com/gp/product/B01FJLAITC) - $425
 The key is that it has 40 PCI lanes so that all four cards can run at 8x PCI
