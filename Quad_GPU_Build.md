@@ -1,6 +1,8 @@
 ## Components
 
-- Motherboard - [ASUS EATX DDR4 LGA 2011-3 Motherboards X99-E ](https://www.amazon.com/Asus-Motherboards-WS-USB-3-1/dp/B00XUDLXJG)- $509
+| Component       | Link        | Price
+
+- Motherboard - [ASUS EATX DDR4 LGA 2011-3 Motherboards X99-E ](https://www.amazon.com/Asus-Motherboards-WS-USB-3-1/dp/B00XUDLXJG) $509
 The key is that it is wide enough to support four double-width cards
 
 - CPU - [Intel Boxed Core i7-6850K Processor](https://www.amazon.com/gp/product/B01FJLAITC) - $425
