@@ -7,7 +7,7 @@ CPU | [Intel Boxed Core i7-6850K Processor](https://www.amazon.com/gp/product/B0
 RAM | [Corsair Vengeance LPX 64GB DDR4 2400](https://www.amazon.com/gp/product/B01ET6Y09C) | $720 | Any DDR4 2400 RAM is good
 CPU Cooler | [Cooler Master Hyper 212 Evo Cooler](https://www.amazon.com/dp/B005O65JXI) | $30 | 
 Hard Drive | 2x [Samsung 850 EVO 1TB 2.5-Inch SATA III Internal SSD](https://www.amazon.com/gp/product/B00OBRFFAS) | $350 | You can buy as many as you need. I'd recommend at least 2.
-GPUS | 4x 1080 Ti (make sure to get "Founder's Edition" -- without any extra fans, which will mess up the case airflow) | 2 GPUs is also good.
+GPUS | 4x 1080 Ti (make sure to get "Founder's Edition" -- without any extra fans, which will mess up the case airflow) |  | 2 GPUs is also good.
 Power Supply | [EVGA SuperNova 1600W](https://www.amazon.com/EVGA-SuperNOVA-PLATINUM-Crossfire-220-P2-1600-X1/dp/B00NJG61JQ) | $280 | If only using 2 GPUs, can go down to 1000W
 Case | [Corsair Carbide Series Air 540 High Airflow ATX Cube Case](https://www.amazon.com/gp/product/B00D6GINF4) | $137 | Love this case -- enough room to comfortably fit everything.
 
