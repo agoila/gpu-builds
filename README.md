@@ -6,9 +6,11 @@ A non-exhaustive list of GPU builds to help those working on setting up their ow
 - [Single GTX 1080 ($1220)](https://pcpartpicker.com/list/qQhVBP)
 - [Single GTX 1070 ($1185)](https://pcpartpicker.com/list/Df2KNN)
 
+
 ## Premium builds
 - [Twin GTX 1080 ($2150)](https://pcpartpicker.com/user/maxdavis/saved/dvmkLk)
 - [Twin GTX 1080 ($3250)](https://pcpartpicker.com/list/4zRqHN)
+
 
 ## Quad GPU build
 
